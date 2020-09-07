@@ -1,0 +1,30 @@
+﻿  OpenCVHelper.cpp
+c:\project\uwp\samples\cameraopencv (4)\cs\packages\opencv.win.core.310.6.1\include\opencv2\core\mat.hpp(1913): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\project\uwp\samples\cameraopencv (4)\cs\packages\opencv.win.core.310.6.1\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\project\uwp\samples\cameraopencv (4)\cs\packages\opencv.win.core.310.6.1\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\project\uwp\samples\cameraopencv (4)\cs\packages\opencv.win.core.310.6.1\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\project\dlib-19.17\dlib-19.17\dlib\image_transforms\morphological_operations.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(53): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(113): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(117): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(118): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(132): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(145): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(180): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(185): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(226): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(230): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(234): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(249): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(263): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(264): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(296): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\project\uwp\samples\cameraopencv (4)\shared\opencvbridge\opencvhelper.cpp(325): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+     C:\Project\UWP\Samples\CameraOpenCV (4)\cs\Release\OpenCVBridge\OpenCVBridge.lib 라이브러리 및 C:\Project\UWP\Samples\CameraOpenCV (4)\cs\Release\OpenCVBridge\OpenCVBridge.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  3 of 4813 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  OpenCVBridge.vcxproj -> C:\Project\UWP\Samples\CameraOpenCV (4)\cs\Release\OpenCVBridge\OpenCVBridge.dll

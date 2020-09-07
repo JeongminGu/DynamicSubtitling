@@ -1,0 +1,1 @@
+"/t:Microsoft.CognitiveServices.Speech.DetailedSpeechRecognitionResultCollection,Microsoft.CognitiveServices.Speech.csharp,json"

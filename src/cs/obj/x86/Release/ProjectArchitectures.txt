@@ -1,0 +1,2 @@
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\CameraOpenCV.csproj;x86
+C:\Project\UWP\Samples\CameraOpenCV (4)\shared\OpenCVBridge\OpenCVBridge.vcxproj;x86

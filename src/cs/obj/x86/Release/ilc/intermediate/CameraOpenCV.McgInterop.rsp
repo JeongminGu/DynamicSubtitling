@@ -1,0 +1,39 @@
+﻿/debug:pdbonly
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize+
+/out:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.dll"
+/pdb:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.pdb"
+/platform:anycpu
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.iltoc"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Threading.iltoc"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\System.Private.CameraOpenCV.Generated.dll"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Adapters.g.cs"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\AssemblyInfo.g.cs"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Data.g.cs"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Helpers.g.cs"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\ImplTypes.g.cs"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\PInvoke.g.cs"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\SafeTypes.g.cs"
+"C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\SharedStubs.g.cs"

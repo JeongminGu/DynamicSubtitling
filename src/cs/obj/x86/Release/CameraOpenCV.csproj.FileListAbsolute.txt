@@ -1,0 +1,1367 @@
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\App.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\MainPage.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\Scenario1_ExampleOperations.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\Styles\Styles.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\CameraOpenCV.xr.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\resources.pri
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\AppxManifest.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Adapters.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\AssemblyInfo.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\microsoft-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\smallTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\squareTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\storeLogo-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\tile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\windows-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\CameraOpenCV.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\CameraOpenCV.xr.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\ClrCompression.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Data.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Helpers.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\ImplTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\OpenCVBridge.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\OpenCVBridge.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\OpenCVBridge.winmd
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\opencv_core310.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\opencv_imgproc310.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\opencv_video310.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\PInvoke.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\resources.pri
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\SafeTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\SharedStubs.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\CameraOpenCV.build.appxrecipe
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\Microsoft.CSharp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Core.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceModel.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\mscorlib.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\Microsoft.VisualBasic.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\Microsoft.Win32.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.AppContext.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Collections.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Collections.Concurrent.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Collections.Immutable.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Collections.NonGeneric.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Collections.Specialized.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ComponentModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ComponentModel.Annotations.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Data.Common.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.Contracts.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.Debug.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.StackTrace.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.Tools.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.Tracing.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Dynamic.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Globalization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Globalization.Calendars.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Globalization.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.Compression.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ClrCompression.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.Compression.ZipFile.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.IsolatedStorage.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Linq.Expressions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Linq.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Linq.Queryable.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Http.Rtc.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.NetworkInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Requests.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Sockets.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.WebHeaderCollection.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Numerics.Vectors.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ObjectModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Private.DataContractSerialization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Private.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Private.Uri.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.Context.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.DispatchProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.Emit.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.Metadata.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.TypeExtensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Resources.ResourceManager.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Handles.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.InteropServices.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Serialization.Json.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Claims.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Principal.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceModel.Duplex.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceModel.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceModel.NetTcp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceModel.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Text.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Text.Encoding.CodePages.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Text.Encoding.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Text.RegularExpressions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.Overlapped.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.Tasks.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.Timer.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.ReaderWriter.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.XmlDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.XmlSerializer.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\OpenCVBridge.winmd
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\OpenCVBridge.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\OpenCVBridge.pri
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\CameraOpenCV.csprojAssemblyReference.cache
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\App.g.i.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\App.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\MainPage.g.i.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\MainPage.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\Scenario1_ExampleOperations.g.i.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\Scenario1_ExampleOperations.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\App.xaml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\MainPage.xaml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\Scenario1_ExampleOperations.xaml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\Styles\Styles.xaml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\App.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\MainPage.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\Scenario1_ExampleOperations.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\Styles\Styles.xbf
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\XamlSaveStateFile.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\CameraOpenCV.csproj.CoreCompileInputs.cache
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\CameraOpenCV.csproj.CopyComplete
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ResourceHandlingTask.state
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\priconfig.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\priconfig.xml.intermediate
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\unfiltered.layout.resfiles
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\unfiltered.layout.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\filtered.layout.resfiles
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\filtered.layout.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\excluded.layout.resfiles
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\excluded.layout.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\resources.resfiles
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\resources.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\pri.resfiles
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\pri.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\qualifiers.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\qualifiers.txt.intermediate
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ProjectArchitectures.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\CameraOpenCV.xr.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\AppxManifest.xml
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\OpenCVBridge.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Core.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\mscorlib.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.AppContext.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Collections.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ComponentModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Data.Common.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Globalization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.Compression.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Requests.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ObjectModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Private.Uri.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Claims.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Principal.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\OpenCVBridge.winmd
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\resources.pri
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\ClrCompression.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\OpenCVBridge.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\opencv_core310.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\opencv_imgproc310.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\opencv_video310.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\microsoft-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\smallTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\squareTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\storeLogo-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\tile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\windows-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc.CameraOpenCV.rsp
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Adapters.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\AssemblyInfo.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Data.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Helpers.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\ImplTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\PInvoke.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\SafeTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\SharedStubs.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\gkargs.rsp
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.closure.csv
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.csv
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.forwarders.csv
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.ilexe
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.ilexe.ILTransformTask.repro
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.McgInterop.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.McgInterop.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.metadata
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.reflectionlog.csv
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.res
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\MDIL\CameraOpenCV.mdilexe
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\MDIL\CameraOpenCV.mdilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\MDIL\CameraOpenCV.rsp
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Native.res
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Native\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\rhbindargs.CameraOpenCV.rsp
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\4.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\4.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\1.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\splash-sdk.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\1.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\splash-sdk.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-100.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-125.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-150.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-400.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-100.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-125.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-150.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-400.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Assets\12.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Assets\12.png
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\DotNetNative.debugger-services-def.json
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Buffers.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ComponentModel.Composition.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ComponentModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ComponentModel.TypeConverter.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Configuration.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Console.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Data.SqlClient.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Data.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.Process.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Diagnostics.TraceSource.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Drawing.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Drawing.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.Compression.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.FileSystem.Watcher.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.MemoryMappedFiles.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.Pipes.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.Pipes.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.IO.Ports.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Memory.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.HttpListener.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Mail.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.NameResolution.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Ping.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.ServicePoint.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.WebClient.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.WebProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.WebSockets.Client.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Net.WebSockets.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Private.Reflection.Metadata.Ecma335.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Private.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Private.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Resources.Reader.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Resources.Writer.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Runtime.Serialization.Formatters.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Cryptography.Cng.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Cryptography.Csp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Permissions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.Principal.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.SecureString.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ServiceProcess.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.Thread.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Threading.ThreadPool.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Transactions.Local.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Transactions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.ValueTuple.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Web.HttpUtility.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.XPath.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\System.Xml.XPath.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\WindowsBase.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\netstandard.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Buffers.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ComponentModel.Composition.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ComponentModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ComponentModel.TypeConverter.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Configuration.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Console.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Data.SqlClient.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Data.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.DiagnosticSource.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.FileVersionInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.Process.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.TextWriterTraceListener.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Diagnostics.TraceSource.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Drawing.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Drawing.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.Compression.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.DriveInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.Watcher.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.MemoryMappedFiles.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.Pipes.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.Pipes.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.IO.Ports.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Memory.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.HttpListener.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Mail.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.NameResolution.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Ping.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.ServicePoint.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.WebClient.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.WebProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.WebSockets.Client.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Net.WebSockets.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Private.Reflection.Metadata.Ecma335.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Private.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Private.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Reflection.Emit.Lightweight.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Resources.Reader.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Resources.Writer.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.CompilerServices.VisualC.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Formatters.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Algorithms.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Cng.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Csp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.X509Certificates.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Permissions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.Principal.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.SecureString.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ServiceProcess.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.Thread.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Threading.ThreadPool.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Transactions.Local.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Transactions.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.ValueTuple.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Web.HttpUtility.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.XPath.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\System.Xml.XPath.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\WindowsBase.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\netstandard.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.rsp
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.CameraOpenCV.Generated.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.CameraOpenCV.Generated.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.CompilerServices.Unsafe.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.CompilerServices.Unsafe.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Native\DotNetNative.debugger-services-def.json
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Numerics.Vectors.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Numerics.Vectors.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\System.Private.CameraOpenCV.Generated.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.NonGeneric.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.NonGeneric.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.EventBasedAsync.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.EventBasedAsync.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.EventBasedAsync.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.EventBasedAsync.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\DataContractSerializerHelper.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\ilc\Microsoft.CognitiveServices.Speech.core.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\Microsoft.CognitiveServices.Speech.core.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\bin\x86\Release\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\in\Microsoft.CognitiveServices.Speech.core.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\ComputedSerializationInput.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\DataContractSerializerHelper.g.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\PreInitStructs.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\PreInitStructsJson.cs
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\sgargs.rsp
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.CognitiveServices.Speech.csharp.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.CognitiveServices.Speech.csharp.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.Specialized.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.Specialized.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.DiagnosticSource.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.DiagnosticSource.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.TraceSource.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.TraceSource.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Http.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Http.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.NameResolution.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.NameResolution.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Requests.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Requests.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Security.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Security.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.ServicePoint.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.ServicePoint.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Sockets.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Sockets.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.WebHeaderCollection.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.WebHeaderCollection.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DataContractSerialization.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DataContractSerialization.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.Linq.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.Linq.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.RuntimeInformation.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.RuntimeInformation.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Formatters.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Formatters.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.Intermediate.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.Intermediate.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Csp.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Csp.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.Windows.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.Windows.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Thread.ildll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Thread.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.Specialized.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.Specialized.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.DiagnosticSource.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.DiagnosticSource.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.TraceSource.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.TraceSource.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.IO.FileSystem.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.IO.FileSystem.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Http.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Http.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Http.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.NameResolution.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.NameResolution.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Requests.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Requests.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Security.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Security.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Security.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.ServicePoint.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.ServicePoint.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Sockets.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Sockets.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.WebHeaderCollection.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.WebHeaderCollection.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DataContractSerialization.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DataContractSerialization.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DataContractSerialization.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.Linq.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.Linq.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.Linq.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.RuntimeInformation.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.RuntimeInformation.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Numerics.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Numerics.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Formatters.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Formatters.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Claims.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Claims.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Algorithms.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Algorithms.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Cng.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Cng.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Csp.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Csp.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Encoding.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Encoding.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.X509Certificates.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.X509Certificates.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Principal.Windows.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Principal.Windows.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Overlapped.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Overlapped.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Thread.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Thread.index.txt
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.Intermediate.dll
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.pdb
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\.winmd_cache\$OpenCVBridge.winmd_636988596530973056.json
+C:\Project\UWP\Samples\CameraOpenCV\cs\obj\x86\Release\.winmd_cache\$OpenCVBridge.winmd_636988597540278231.json
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\App.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\MainPage.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\Scenario1_ExampleOperations.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\Styles\Styles.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\CameraOpenCV.xr.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\resources.pri
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\AppxManifest.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Adapters.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\AssemblyInfo.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\1.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\12.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\4.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-100.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-125.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-150.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\cglab_logo.scale-400.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\microsoft-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\smallTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\squareTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\storeLogo-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\tile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Assets\windows-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\CameraOpenCV.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\CameraOpenCV.xr.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\clrcompression.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Data.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\DataContractSerializerHelper.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\DotNetNative.debugger-services-def.json
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Helpers.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\ImplTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\Microsoft.CognitiveServices.Speech.core.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\OpenCVBridge.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\OpenCVBridge.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\OpenCVBridge.winmd
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\opencv_core310.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\opencv_imgproc310.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\opencv_video310.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\PInvoke.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\resources.pri
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\SafeTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\SharedStubs.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\ilc\splash-sdk.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\CameraOpenCV.build.appxrecipe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\Microsoft.CognitiveServices.Speech.core.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\clrcompression.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\Microsoft.CSharp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\Microsoft.VisualBasic.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\Microsoft.Win32.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.AppContext.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Buffers.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Collections.Concurrent.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Collections.Immutable.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Collections.NonGeneric.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Collections.Specialized.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Collections.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ComponentModel.Annotations.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ComponentModel.Composition.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ComponentModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ComponentModel.TypeConverter.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ComponentModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Configuration.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Console.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Core.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Data.Common.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Data.SqlClient.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Data.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.Contracts.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.Debug.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.Process.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.StackTrace.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.Tools.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.TraceSource.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Diagnostics.Tracing.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Drawing.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Drawing.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Dynamic.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Globalization.Calendars.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Globalization.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Globalization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.Compression.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.Compression.ZipFile.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.Compression.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.FileSystem.Watcher.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.IsolatedStorage.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.MemoryMappedFiles.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.Pipes.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.Pipes.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.Ports.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.IO.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Linq.Expressions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Linq.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Linq.Queryable.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Memory.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Http.Rtc.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.HttpListener.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Mail.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.NameResolution.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.NetworkInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Ping.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Requests.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.ServicePoint.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.Sockets.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.WebClient.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.WebHeaderCollection.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.WebProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.WebSockets.Client.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.WebSockets.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Net.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Numerics.Vectors.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ObjectModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Private.DataContractSerialization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Private.Reflection.Metadata.Ecma335.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Private.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Private.Uri.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Private.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Private.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.Context.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.DispatchProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.Emit.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.Metadata.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.TypeExtensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Reflection.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Resources.Reader.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Resources.ResourceManager.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Resources.Writer.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Handles.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.InteropServices.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Serialization.Formatters.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Serialization.Json.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Claims.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Cryptography.Cng.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Cryptography.Csp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Permissions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Principal.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.Principal.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.SecureString.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceModel.Duplex.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceModel.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceModel.NetTcp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceModel.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceModel.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ServiceProcess.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Text.Encoding.CodePages.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Text.Encoding.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Text.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Text.RegularExpressions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.Overlapped.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.Tasks.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.Thread.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.ThreadPool.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.Timer.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Threading.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Transactions.Local.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Transactions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.ValueTuple.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Web.HttpUtility.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.ReaderWriter.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.XPath.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.XPath.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.XmlDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.XmlSerializer.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\System.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\WindowsBase.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\mscorlib.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\netstandard.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\OpenCVBridge.winmd
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\OpenCVBridge.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\bin\x86\Release\OpenCVBridge.pri
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\CameraOpenCV.csprojAssemblyReference.cache
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\App.g.i.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\App.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\MainPage.g.i.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\MainPage.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\Scenario1_ExampleOperations.g.i.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\Scenario1_ExampleOperations.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\App.xaml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\MainPage.xaml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\Scenario1_ExampleOperations.xaml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\Styles\Styles.xaml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\App.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\MainPage.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\Scenario1_ExampleOperations.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\Styles\Styles.xbf
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\XamlSaveStateFile.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\CameraOpenCV.csproj.CoreCompileInputs.cache
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\CameraOpenCV.csproj.CopyComplete
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ResourceHandlingTask.state
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\priconfig.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\priconfig.xml.intermediate
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\unfiltered.layout.resfiles
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\unfiltered.layout.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\filtered.layout.resfiles
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\filtered.layout.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\excluded.layout.resfiles
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\excluded.layout.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\resources.resfiles
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\resources.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\pri.resfiles
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\pri.resfiles.intermediate
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\qualifiers.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\qualifiers.txt.intermediate
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ProjectArchitectures.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\.winmd_cache\$OpenCVBridge.winmd_636988596530973056.json
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\.winmd_cache\$OpenCVBridge.winmd_636988597540278231.json
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\CameraOpenCV.xr.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\AppxManifest.xml
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\OpenCVBridge.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.AppContext.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Buffers.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Collections.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ComponentModel.Composition.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ComponentModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ComponentModel.TypeConverter.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ComponentModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Configuration.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Console.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Core.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Data.Common.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Data.SqlClient.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Data.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.DiagnosticSource.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.FileVersionInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.Process.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.TextWriterTraceListener.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.TraceSource.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Drawing.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Drawing.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Globalization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.Compression.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.Compression.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.DriveInfo.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.Watcher.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.MemoryMappedFiles.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.Pipes.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.Pipes.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.Ports.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.IO.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Memory.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.HttpListener.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Mail.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.NameResolution.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Ping.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Requests.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.ServicePoint.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.WebClient.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.WebProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.WebSockets.Client.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.WebSockets.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Net.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ObjectModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Private.Reflection.Metadata.Ecma335.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Private.Uri.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Private.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Private.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.Emit.Lightweight.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Reflection.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Resources.Reader.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Resources.Writer.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.CompilerServices.VisualC.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Formatters.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Runtime.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.AccessControl.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Claims.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Algorithms.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Cng.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Csp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Cryptography.X509Certificates.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Permissions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Principal.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.Principal.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.SecureString.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceModel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ServiceProcess.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.Extensions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.Thread.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.ThreadPool.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Threading.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Transactions.Local.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Transactions.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.ValueTuple.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Web.HttpUtility.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Web.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Windows.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.XPath.XDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.XPath.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.Xml.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\System.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\WindowsBase.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\mscorlib.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\netstandard.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\OpenCVBridge.winmd
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\resources.pri
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Microsoft.CognitiveServices.Speech.core.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\clrcompression.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\OpenCVBridge.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\opencv_core310.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\opencv_imgproc310.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\opencv_video310.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\microsoft-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\smallTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\squareTile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\storeLogo-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\tile-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\windows-sdk.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\1.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\12.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\4.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-100.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-125.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-150.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\Assets\cglab_logo.scale-400.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\in\splash-sdk.scale-200.png
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc.CameraOpenCV.rsp
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop.rsp
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Adapters.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\AssemblyInfo.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Data.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\Helpers.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\ImplTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\PInvoke.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\SafeTypes.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.McgInterop\SharedStubs.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\ComputedSerializationInput.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\DataContractSerializerHelper.g.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\PreInitStructs.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\PreInitStructsJson.cs
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\CameraOpenCV.Sg\sgargs.rsp
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\gkargs.rsp
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.closure.csv
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.csv
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.forwarders.csv
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.ilexe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.ilexe.ILTransformTask.repro
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.McgInterop.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.McgInterop.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.metadata
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.reflectionlog.csv
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\CameraOpenCV.res
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.CognitiveServices.Speech.csharp.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.CognitiveServices.Speech.csharp.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.Specialized.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.Specialized.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.EventBasedAsync.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.EventBasedAsync.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.DiagnosticSource.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.DiagnosticSource.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.TraceSource.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.TraceSource.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Http.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Http.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.NameResolution.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.NameResolution.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Requests.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Requests.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Security.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Security.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.ServicePoint.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.ServicePoint.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Sockets.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Sockets.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.WebHeaderCollection.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.WebHeaderCollection.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.CameraOpenCV.Generated.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.CameraOpenCV.Generated.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DataContractSerialization.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DataContractSerialization.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.Linq.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Xml.Linq.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.CompilerServices.Unsafe.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.CompilerServices.Unsafe.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.RuntimeInformation.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.RuntimeInformation.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Formatters.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Formatters.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.Intermediate.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Generated.Intermediate.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Csp.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Csp.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.Windows.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.Windows.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Thread.ildll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Thread.ilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\MDIL\CameraOpenCV.mdilexe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\MDIL\CameraOpenCV.mdilpdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\MDIL\CameraOpenCV.rsp
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Native.res
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Native\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Native\DotNetNative.debugger-services-def.json
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\CameraOpenCV.exe
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\CameraOpenCV.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.NonGeneric.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.NonGeneric.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.Specialized.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Collections.Specialized.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.EventBasedAsync.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.EventBasedAsync.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.ComponentModel.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.DiagnosticSource.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.DiagnosticSource.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.TraceSource.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Diagnostics.TraceSource.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.IO.FileSystem.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.IO.FileSystem.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Http.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Http.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Http.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.NameResolution.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.NameResolution.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Requests.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Requests.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Security.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Security.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Security.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.ServicePoint.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.ServicePoint.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Sockets.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.Sockets.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.WebHeaderCollection.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Net.WebHeaderCollection.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Numerics.Vectors.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Numerics.Vectors.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DataContractSerialization.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DataContractSerialization.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DataContractSerialization.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.Linq.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.Linq.1.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Private.Xml.Linq.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.RuntimeInformation.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.RuntimeInformation.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Numerics.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Numerics.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Formatters.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Formatters.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.Serialization.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Claims.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Claims.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Algorithms.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Algorithms.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Cng.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Cng.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Csp.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Csp.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Encoding.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Encoding.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Primitives.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.Primitives.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.X509Certificates.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Cryptography.X509Certificates.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Principal.Windows.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Security.Principal.Windows.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Overlapped.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Overlapped.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Thread.0.rsrc
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Thread.index.txt
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\rhbindargs.CameraOpenCV.rsp
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.Intermediate.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.pdb
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\ilc\intermediate\System.Private.CameraOpenCV.Generated.dll
+C:\Project\UWP\Samples\CameraOpenCV (4)\cs\obj\x86\Release\.winmd_cache\$OpenCVBridge.winmd_637341579784299212.json
